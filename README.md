@@ -2,6 +2,7 @@
 Producer Consumer Problem
 
 --Overview--
+
 This program simulates the producer-consumer problem using POSIX mutex and semaphores in C
 programming language. 
 
@@ -19,5 +20,6 @@ Both programs demonstrate synchronization to coordinate access to a shared bound
 multiple threads.
 
 --Source Files--
+
 prod-cons.c
 rand-prod.cons.c
